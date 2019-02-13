@@ -2,6 +2,6 @@ import utime
 
 def loop():
     while True:
-        print("fish")
+        print("liver")
 
         utime.sleep(5)
